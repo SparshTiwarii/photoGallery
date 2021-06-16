@@ -1,0 +1,22 @@
+{
+  "name": "photo-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparshTiwarii/photoGallery.git"
+  },
+  "author": "Sparsh Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SparshTiwarii/photoGallery/issues"
+  },
+  "homepage": "https://github.com/SparshTiwarii/photoGallery#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
