@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.image-gallery{
+    display: grid;
+    grid-gap: 20px;
+
+}
+.image{
+    height: 300px;
+    width: 300px;
+}
+
+h1{
+    text-align: center;
+}
